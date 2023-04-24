@@ -1,0 +1,13 @@
+[submodule "pico-sdk"]
+    path = src/Dependency/pico-sdk
+    url = https://github.com/raspberrypi/pico-sdk.git
+    shallow = true
+    branch = master
+    ignore = all
+
+[submodule "pico-code"]
+    path = src/Dependency/no-OS-FatFS
+    url = https://github.com/carlk3/no-OS-FatFS-SD-SPI-RPi-Pico.git
+    shallow = true
+    branch = sdio
+    ignore = all
