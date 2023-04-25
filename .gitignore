@@ -1,5 +1,2 @@
 # No need to commit builds
 build/**
-
-# Dependencies should not be modified here
-src/Dependency/**
