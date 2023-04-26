@@ -6,3 +6,6 @@
 [submodule "src/Dependency/no-OS-FatFS"]
 	path = src/Dependency/no-OS-FatFS
 	url = https://github.com/carlk3/no-OS-FatFS-SD-SPI-RPi-Pico.git
+	branch = sdio
+	shallow = true
+	ignore = all
