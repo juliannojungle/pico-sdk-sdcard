@@ -10,7 +10,7 @@ Sample project: how to use SD card with raspberry pico-sdk
 
 ## B.O.M. (Bill Of Material): :shopping_cart:
 
-- RaspberryPi Pico;
+- [RaspberryPi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/);
 - MicroSD to SD card adapter (for easy soldering);
 - MicroSD card;
 - Some nice wires (30 AWG recommended);
