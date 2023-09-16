@@ -8,7 +8,7 @@ Sample project: how to use SD card with raspberry pico-sdk
   - [ms-vscode-remote.vscode-remote-extensionpack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack);
   - [ms-vscode.vscode-serial-monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor).
 
-## B.O.M. (Bill Of Material): :shopping_cart:
+## B.O.M. (Bill Of Materials): :shopping_cart:
 
 - [RaspberryPi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/);
 - MicroSD to SD card adapter (for easy soldering);
